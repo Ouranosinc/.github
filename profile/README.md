@@ -1,1 +1,1 @@
-![Ouranos](/images/logo_ouranos_vertical_couleur.svg)
+![Ouranos](/images/logo-ouranos-vertical-couleur.svg)
