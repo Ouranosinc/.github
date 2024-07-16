@@ -2,7 +2,8 @@
 
 ## Reporting a Vulnerability
 
-If you believe you have found a security vulnerability in `xclim`, we encourage you to let us know right away. We take all security vulnerabilities seriously and appreciate your efforts to responsibly disclose them.
+If you believe you have found a security vulnerability, we encourage you to let us know right away.
+We take all security vulnerabilities seriously and appreciate your efforts to responsibly disclose them.
 
 Please follow these steps to report a security vulnerability:
 
